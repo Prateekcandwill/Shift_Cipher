@@ -50,6 +50,8 @@ shift = (sum(ASCII(char.lower()) for alpha char in input_str) +
 
 ## Example
 
+https://github.com/Prateekcandwill/Shift_Cipher/blob/1ecaa9a499b124227d64a068ee2e014835ada5df/demoofmemecipher.gif
+
 ```
 $ python meme_shift_cipher.py
 Do you want to (1) encrypt or (2) decrypt a string? 1
